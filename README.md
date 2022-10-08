@@ -1,8 +1,8 @@
 ### Hi there, I'm Kevin 👋
 
-In a nutshell, I'm helping people to solve problem by web applications. Based in Brussels you can reach me for collaboration or a beer 🍻.
+In a nutshell, I'm helping people to solve problem through web applications. Based in Brussels you can reach me for collaboration or a beer 🍻.
 
-I'm working through [ScreenSide](https://screenside.be/).
+I'm working through [ScreenSide](https://screenside.be/) company.
 
 You can find me here:
 
