@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin 👋
+### Hi there 👋
 
 In a nutshell, I'm helping people to solve problem through web applications. Based in Brussels you can reach me for collaboration or a beer 🍻.
 
