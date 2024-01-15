@@ -6,4 +6,4 @@ I'm working through [ScreenSide](https://screenside.be/) company.
 
 You can find me here:
 
-[GitHub](https://github.com/KevinTss) • [LinkedIn](https://www.linkedin.com/in/kevin-tassi/) • [Twitter](https://twitter.com/TassiKevin)
+[GitHub](https://github.com/KevinTss) • [LinkedIn](https://www.linkedin.com/in/kevin-tassi/) • [Threads](https://www.threads.net/@kevintss92)
